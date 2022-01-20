@@ -1,5 +1,5 @@
 # Vending
-Command-line vending machine project from mthree C144 Java Course to demonstrate MVC design pattern with full unit testing.
+Command-line vending machine project to demonstrate MVC design pattern with full unit testing.
 
 -Utilizes Spring Framework for dependency injection with annotation-based configuration.
 
