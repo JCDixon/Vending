@@ -1,0 +1,5 @@
+1::Snickers::1.25::5
+2::Caramilk::2.00::1
+3::KitKat::1.50::5
+4::Cliff Bar::3.50::3
+5::Kombucha::5.00::3

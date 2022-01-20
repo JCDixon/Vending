@@ -1,0 +1,2 @@
+1::Snickers::1.25::1
+2::Dingleberry::2.00::5
